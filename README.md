@@ -69,6 +69,9 @@ git push
 ## Your answers
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
+In the Japanese GP, Jack Doohan started on Soft tires instead of the winner's Mediums.
+During the wet British GP, Kimi Antonelli made four pit stops and even used Hard tires.
+For the Dutch GP, Max Verstappen used a Soft-Medium-Soft strategy, which was completely different from the winner's Medium-Hard-Hard.
 
 >
 
