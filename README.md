@@ -83,8 +83,8 @@ The trace also shows the pit stops between laps 20 and 33, where the lines jump 
 >
 
 **Bonus** (optional): which race did you add, and why?
-I added the Japanese Grand Prix 2024 because it is the same circuit as the 2025 race, so I can compare how the same Grand Prix produces different strategies and gaps in a different year.
-
+I added the Monaco Grand Prix 2024 because it is a street circuit where overtaking is very hard, so it is a different kind of race from the other three.
+The race trace shows that most of the top drivers stayed close to Leclerc for the whole race, while Tsunoda, Albon and Gasly slowly fell about 90 seconds behind.
 >
 
 ---
