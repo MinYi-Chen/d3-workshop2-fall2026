@@ -76,10 +76,14 @@ For the Dutch GP, Max Verstappen used a Soft-Medium-Soft strategy, which was com
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
+In the Japanese GP, the race trace shows that Norris and Piastri stayed within about 3 seconds of Verstappen for the whole race, while Bearman slowly fell back to more than 50 seconds behind.
+A plain lap time chart would hide this, because each driver is only a few tenths slower per lap, and those small differences only become visible once they are added up lap by lap.
+The trace also shows the pit stops between laps 20 and 33, where the lines jump up and down by about 20 seconds as each driver comes in.
 
 >
 
 **Bonus** (optional): which race did you add, and why?
+I added the Japanese Grand Prix 2024 because it is the same circuit as the 2025 race, so I can compare how the same Grand Prix produces different strategies and gaps in a different year.
 
 >
 
